@@ -1,6 +1,6 @@
 cask "geisterhand" do
-  version "1.1.0"
-  sha256 "7c3a83ac18dc867cb9603e656846bf653c9ec61976d3cb41eac6085417e87f0c"
+  version "1.2.0"
+  sha256 "eda55a6e052ee2b6de4624c53cf7450099bc4e081534399e3a0262c102e4b763"
 
   url "https://github.com/geisterhand-io/macos/releases/download/v#{version}/Geisterhand-#{version}.dmg"
   name "Geisterhand"

@@ -1,8 +1,8 @@
 class Geisterhand < Formula
   desc "macOS screen automation tool with HTTP API and CLI"
   homepage "https://github.com/geisterhand-io/macos"
-  url "https://github.com/geisterhand-io/macos/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "f00013c0f40b9522ec52c9d592f74a56ae641939381b894aeeb68ea0f70508c5"
+  url "https://github.com/geisterhand-io/macos/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "6b272cccadff88be7b3f25c8dd111aab00f0cb4714f1195ff1e5e9d5e121d91d"
   license "MIT"
   head "https://github.com/geisterhand-io/macos.git", branch: "main"
 
